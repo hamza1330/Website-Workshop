@@ -1,11 +1,11 @@
 body {
-    background-color: rgba(0, 255, 229, 0.516);
-    background-image: ;
+    background-color: #e7c29e;
+    background-image: url(Background.webp);
 }
 
 li {
-    background-color: rgb(9, 0, 188);
-    color: aliceblue;
+    background-color: #f1dac2;
+    color: rgb(0, 0, 0);
     border: 2px solid black
 }
 
