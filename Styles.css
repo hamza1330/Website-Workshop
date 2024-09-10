@@ -1,0 +1,19 @@
+body {
+    background-color: rgba(0, 255, 229, 0.516);
+    background-image: ;
+}
+
+li {
+    background-color: rgb(9, 0, 188);
+    color: aliceblue;
+    border: 2px solid black
+}
+
+.Test {
+    color: rgb(35, 16, 16);
+    margin: 0.5cm;
+}
+
+#main {
+    border: 2px solid black
+}
